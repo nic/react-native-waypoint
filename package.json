@@ -1,0 +1,23 @@
+{
+  "name": "react-native-waypoint",
+  "version": "0.0.1",
+  "description": "React Native Waypoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nic@github.com/nic/react-native-waypoint.git"
+  },
+  "keywords": [
+    "react-native",
+    "waypoint"
+  ],
+  "author": "nic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nic/react-native-waypoint/issues"
+  },
+  "homepage": "https://github.com/nic/react-native-waypoint#readme"
+}
